@@ -8,3 +8,5 @@ The first version of this repository only contains the Data of a single
 generated game. As soon as the corresponding paper is accepted for presentation,
 additional game rounds as well as python scripts for the generation of other
 rounds and for customization of this data are added.
+
+A visualization of the generated movement traces of `g0` can be found on Youtube: https://www.youtube.com/watch?v=3QhVJy3fsPw
