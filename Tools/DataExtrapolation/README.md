@@ -1,6 +1,6 @@
-This folder contains the tools to extrapolate movement and network traces, as well as tools for visualizing those generated traces.
+This folder contains the tools to extrapolate movement and network traces, as well as tools for visualizing those generated traces. A description of the used file-formats can be found in: https://github.com/phylib/FortniteTraces/blob/master/GeneratedTraces/README.md
 
-When new traces should be created, please focus on the `TrafficGenerator.py` script. This script first generates movement traces using the `FortniteWorldGeneration.py` script, writes the resulting movement traces into the output folder and then creates traffic traces, based on the player movements.
+In order to create traces, please focus on the `TrafficGenerator.py` script. This script first generates movement traces using the `FortniteWorldGeneration.py` script, which writes the resulting movement traces into a pre-defined output folder and then creates traffic traces, based on the player movements.
 
 The script can be started using the following command:
 
