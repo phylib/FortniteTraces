@@ -11,4 +11,4 @@ A visualization of the generated movement traces of the game round `g0` can be f
 If you use scripts or traces from this repository for your research, we kindly ask to cite our paper:
 
 > P. Moll, M. Lux, S. Theuermann, & H. Hellwagner. (2018). A Network Traffic and Player Movement Model to Improve Networking
-for Competitive Online Games. To appear in Proceedings of the 15th Annual Workshop on Network and Systems Support for Games.
+for Competitive Online Games. Proceedings of the 15th Annual Workshop on Network and Systems Support for Games. DOI: [10.1109/NetGames.2018.8463390](https://doi.org/10.1109/NetGames.2018.8463390)
